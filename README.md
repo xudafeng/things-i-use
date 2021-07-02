@@ -36,6 +36,7 @@
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
 - [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
 - [Kap](https://getkap.co) - An open-source screen recorder built with web technology.
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly.
 
 ## CLI Tools
 
